@@ -2,7 +2,7 @@
 
 # Install
 
-CMD+SHIFT+P
+CMD+SHIFT+P (macOS)
 
 - Install Package then install each package from below
 
